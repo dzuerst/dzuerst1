@@ -22,6 +22,7 @@ I'm Dicky Pratama, a rookie Android Developer from Indonesia
 - 📝 See my [linked.in](https://www.linkedin.com/in/dicky-pratama-a996a51b3/) to get more info 
 - ⚡ Fun fact: I love learning about history and philosophy too
 
+![](https://komarev.com/ghpvc/?username=your-github-dzuerst&label=PROFILE+VIEWS)
 
 <!--
 **dzuerst/dzuerst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
