@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
 I'm Diki Pratama, a rookie Android Developer from Indonesia
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dzuerst&show_icons=true)
@@ -19,8 +18,7 @@ I'm Diki Pratama, a rookie Android Developer from Indonesia
 - 🔭 I’m currently undergraduate study in informatics engineering
 - 🌱 I’m currently learning Dart & Flutter
 - 📫 You can reach me at dierstee@gmail.com
-- 📝 See my [linked.in](https://www.linkedin.com/in/dicky-pratama-a996a51b3/) to get more info
-- 
+- 📝 See my [linked.in](https://www.linkedin.com/in/dicky-pratama-a996a51b3/) to get more info 
 - ⚡ Fun fact: I love learning about history and philosophy too
 
 
