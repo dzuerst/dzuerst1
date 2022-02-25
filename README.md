@@ -4,6 +4,8 @@ I'm Dicky Pratama, a rookie Android Developer from Indonesia
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dzuerst&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzuerst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 <code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></code>
@@ -13,9 +15,6 @@ I'm Dicky Pratama, a rookie Android Developer from Indonesia
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzuerst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Current activities 
 - 🔭 I’m currently undergraduate study in informatics engineering
