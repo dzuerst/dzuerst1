@@ -14,6 +14,8 @@ I'm Dicky Pratama, a rookie Android Developer from Indonesia
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzuerst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Current activities 
 - 🔭 I’m currently undergraduate study in informatics engineering
