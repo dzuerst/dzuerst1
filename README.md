@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Dicky Pratama, a rookie Android Developer from Indonesia
+I'm Dicky Pratama, a rookie Android and Web Developer from Indonesia
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dzuerst&show_icons=true)
 
