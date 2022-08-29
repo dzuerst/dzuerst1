@@ -1,7 +1,5 @@
 ### Hi there I'm Dicky Pratama 👋 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dzuerst&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzuerst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
