@@ -13,5 +13,6 @@
 ### About Me
 - 📫 You can reach me at dierstee@gmail.com
 - 📝 See my [linked.in](https://www.linkedin.com/in/dicky-pratama-a996a51b3/) to get more info 
+- 💻 See more of my projects in my [portfolio](neonusa.my.id)
 
 ![](https://komarev.com/ghpvc/?username=your-github-dzuerst&label=PROFILE+VIEWS)
