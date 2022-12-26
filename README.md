@@ -2,7 +2,7 @@
 
 ## ⚡ Technologies
 
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
@@ -11,7 +11,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
