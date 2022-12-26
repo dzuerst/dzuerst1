@@ -2,8 +2,8 @@
 
 ## ⚡ Technologies
 
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-square&logo=laravel&logoColor=white)
