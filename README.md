@@ -1,7 +1,8 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diczst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Hi, I'm Dicky. I developed several android applications at Neonusa. You can see more of my work [here](https://play.google.com/store/apps/dev?id=4993297934571016627)
+
 
 ## ⚡ Technologies
-
+The following are the technologies that I use in the projects I work on.
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
