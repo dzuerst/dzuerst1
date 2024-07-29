@@ -1,4 +1,4 @@
-Hi, I'm Dicky. I developed android applications at Neonusa. You can see more of my work [here](https://play.google.com/store/apps/dev?id=4993297934571016627)
+Hi, I'm Dicky. I developed android applications. You can see more of my work [here](https://play.google.com/store/apps/dev?id=4993297934571016627)
 
 
 ## ⚡ Technologies
