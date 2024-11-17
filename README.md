@@ -1,8 +1,7 @@
-Hi, I'm Dicky. I developed android applications. You can see more of my work [here](https://play.google.com/store/apps/dev?id=4993297934571016627)
-
+Hi, I'm Dicky, I am a software engineering enthusiast.
 
 ## ⚡ Technologies
-The following are the technologies that I use in the projects I work on.  
+The following are the technologies that I use.  
    
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)
