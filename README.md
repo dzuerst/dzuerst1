@@ -1,4 +1,5 @@
 Hi, I'm Dicky, I am a software engineering enthusiast.
+勉強しています
 
 ## ⚡ Technologies
 The following are the technologies that I use.  
