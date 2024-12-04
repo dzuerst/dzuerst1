@@ -10,7 +10,7 @@ The following are the technologies that I use.
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java) 
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 
 - Version Control & Collaboration Tools  
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
