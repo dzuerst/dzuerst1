@@ -4,17 +4,17 @@
 
 ## ⚡ Technologies
 The following are the technologies that I use.  
-- **Programming Languages**    
+- Programming Languages     
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java) 
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 
-- **Framework & Platform**  
+- Framework & Platform  
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-square&logo=laravel&logoColor=white)
 
-- **API Development & Testing**   
+- API Development & Testing  
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman&logoColor=white)
 
 - Database  
