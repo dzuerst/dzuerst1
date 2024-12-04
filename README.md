@@ -3,7 +3,6 @@
 ~ Ernest Hemingway
 
 ## ⚡ Technologies
-The following are the technologies that I use.  
 - Programming Languages     
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java) 
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin) 
