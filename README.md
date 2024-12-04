@@ -6,7 +6,10 @@ Hi, I'm Dicky, I am a software engineering enthusiast.
 
 ## ⚡ Technologies
 The following are the technologies that I use.  
-### Programming Languages : ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java) ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+### Programming Languages : 
+![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java) 
+![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 ### Version Control & Collaboration Tools : ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
