@@ -16,6 +16,7 @@ The following are the technologies that I use.
 
 - API Development & Testing  
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman&logoColor=white)
+![Httpie](https://img.shields.io/badge/httpie-8A2BE2)
 
 - Database  
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
