@@ -1,5 +1,8 @@
 Hi, I'm Dicky, I am a software engineering enthusiast.
 
+'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.'
+~ Ernest Hemingway
+
 ## ⚡ Technologies
 The following are the technologies that I use.  
    
