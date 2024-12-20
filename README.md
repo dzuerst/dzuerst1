@@ -16,7 +16,7 @@
 - Database  
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 
-![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtjeHBrazFpaDNoeWJ3enNudGljOTl0d3lvOHIydjEyNHB6dHJkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yX8X517TiuMwuO2tdQ/giphy.gif)
+![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN6c2Y0ZmEzNWR5YWFpeDdjaXB3ZDdwNG5nZnRldGcyeWx2em9wOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYA89YxgrjplK/giphy.gif)
 
 
 <!--
