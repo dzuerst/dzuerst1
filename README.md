@@ -1,3 +1,4 @@
+![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF3d2Y5NGIzNmNocGcydmcwMHFheXBwZ2Z4YW1ybGIwazJuZjljNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYhXxqjugpuKI/giphy.gif)
 ## 💬 Motto
 "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."  
 ~ Ernest Hemingway
@@ -16,7 +17,6 @@
 - Database  
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 
-![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN6c2Y0ZmEzNWR5YWFpeDdjaXB3ZDdwNG5nZnRldGcyeWx2em9wOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYA89YxgrjplK/giphy.gif)
 
 
 <!--
