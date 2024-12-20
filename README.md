@@ -1,3 +1,5 @@
+
+![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtjeHBrazFpaDNoeWJ3enNudGljOTl0d3lvOHIydjEyNHB6dHJkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yX8X517TiuMwuO2tdQ/giphy.gif)
 ## 💬 Motto
 "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."  
 ~ Ernest Hemingway
