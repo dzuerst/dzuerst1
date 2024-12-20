@@ -11,6 +11,7 @@
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)
 
 - Framework & Platform  
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
