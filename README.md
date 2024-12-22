@@ -16,6 +16,8 @@
 - Framework & Platform  
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-square&logo=laravel&logoColor=white)
+![NextJs](https://img.shields.io/badge/NextJs-black?style=for-square&logo=nextdotjs&logoColor=white)
+![ReactJs](https://img.shields.io/badge/ReactJs-blue?style=for-square&logo=react&logoColor=white)
 
 - Database  
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
