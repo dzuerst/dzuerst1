@@ -13,15 +13,22 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)
 
-- Framework & Platform  
+- Frontend  
+![ReactJs](https://img.shields.io/badge/ReactJs-blue?style=for-square&logo=react&logoColor=white)
+
+- Backend  
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
+![Express.js](https://img.shields.io/badge/ExpressJs-green?style=flat-square&logo=expressdotjs&logoColor=green)
+
+- Fullstack  
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-square&logo=laravel&logoColor=white)
 ![NextJs](https://img.shields.io/badge/NextJs-black?style=for-square&logo=nextdotjs&logoColor=white)
-![ReactJs](https://img.shields.io/badge/ReactJs-blue?style=for-square&logo=react&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-square&logo=docker&logoColor=white)
 
 - Database  
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+
+- Others  
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-square&logo=docker&logoColor=white)
 
 
 
