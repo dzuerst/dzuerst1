@@ -15,10 +15,11 @@
 
 - Frontend  
 ![ReactJs](https://img.shields.io/badge/ReactJs-blue?style=for-square&logo=react&logoColor=white)
+![XML](https://img.shields.io/badge/xml-orange?style=for-square&logo=xml&logoColor=white)
 
 - Backend  
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
-![Express.js](https://img.shields.io/badge/ExpressJs-green?style=flat-square&logo=expressdotjs&logoColor=green)
+![Express.js](https://img.shields.io/badge/ExpressJs-green?style=flat-square&logo=expressjs&logoColor=green)
 
 - Fullstack  
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-square&logo=laravel&logoColor=white)
