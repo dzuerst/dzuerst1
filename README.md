@@ -1,9 +1,5 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF3d2Y5NGIzNmNocGcydmcwMHFheXBwZ2Z4YW1ybGIwazJuZjljNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYhXxqjugpuKI/giphy.gif" width="400" height="250">
 
-## 💬 Motto | 毎日頑張ってください
-"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."  
-~ Ernest Hemingway
-
 ## ⚡ Technologies
 - Programming Languages     
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java) 
